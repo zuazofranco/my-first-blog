@@ -9,6 +9,11 @@ body {
     background-color: #6d6d6d
 }
 
+hr{
+    position: relative; 
+    color: #1b3d30;
+}
+
 .page-header {
     background-color: #407938;
     margin-top: 0;
